@@ -1,0 +1,121 @@
+{
+  "sentences": [
+    {
+      "speaker": "",
+      "keyWord": "hiking",
+      "definition": "",
+      "english": "On sunny days, Alan and the kids ride bikes or go hiking.",
+      "arabic": "في الأيام المشمسة، يركب ألان والأطفال الدراجات أو يذهبون للمشي لمسافات طويلة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "audio/On sunny days, Alan and the kids ride bikes or go hiking.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": "images/hiking.png"
+    },
+    {
+      "speaker": "",
+      "keyWord": "sunny day",
+      "definition": "",
+      "english": "On sunny days, Alan and the kids ride bikes or go hiking.",
+      "arabic": "في الأيام المشمسة، يركب ألان والأطفال الدراجات أو يذهبون للمشي لمسافات طويلة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "audio/On sunny days, Alan and the kids ride bikes or go hiking.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": "images/sunny_days.webp"
+    },
+    {
+      "speaker": "",
+      "keyWord": "kids",
+      "definition": "",
+      "english": "On sunny days, Alan and the kids ride bikes or go hiking.",
+      "arabic": "في الأيام المشمسة، يركب ألان والأطفال الدراجات أو يذهبون للمشي لمسافات طويلة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "audio/On sunny days, Alan and the kids ride bikes or go hiking.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": "images/kids.webp"
+    },
+    {
+      "speaker": "",
+      "keyWord": "ride a bike",
+      "definition": "",
+      "english": "On sunny days, Alan and the kids ride bikes or go hiking.",
+      "arabic": "في الأيام المشمسة، يركب ألان والأطفال الدراجات أو يذهبون للمشي لمسافات طويلة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "audio/On sunny days, Alan and the kids ride bikes or go hiking.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": "images/ride_bike.webp"
+    },
+    {
+      "speaker": "",
+      "keyWord": "rainy day",
+      "definition": "",
+      "english": "on rainy days, alan and the kids listen to podcasts, or they play games like Scrabble and Checkers.",
+      "arabic": "في الأيام الممطرة، يستمع ألان والأطفال إلى البودكاست، أو يلعبون ألعاباً مثل سكرابل والداما.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "audio/on rainy days, alan and the kids listen to podcasts, or they play games like Scrabble and Checkers.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": "images/rainy_days.webp"
+    },
+    {
+      "speaker": "",
+      "keyWord": "Scrabble",
+      "definition": "",
+      "english": "on rainy days, alan and the kids listen to podcasts, or they play games like Scrabble and Checkers.",
+      "arabic": "في الأيام الممطرة، يستمع ألان والأطفال إلى البودكاست، أو يلعبون ألعاباً مثل سكرابل والداما.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "audio/on rainy days, alan and the kids listen to podcasts, or they play games like Scrabble and Checkers.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": "images/scrabble.webp"
+    },
+    {
+      "speaker": "",
+      "keyWord": "Checkers",
+      "definition": "",
+      "english": "on rainy days, alan and the kids listen to podcasts, or they play games like Scrabble and Checkers.",
+      "arabic": "في الأيام الممطرة، يستمع ألان والأطفال إلى البودكاست، أو يلعبون ألعاباً مثل سكرابل والداما.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "audio/on rainy days, alan and the kids listen to podcasts, or they play games like Scrabble and Checkers.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": "images/checkers.webp"
+    },
+    {
+      "speaker": "",
+      "keyWord": "junk food",
+      "definition": "",
+      "english": "I eat a lot of junk food.",
+      "arabic": "أنا أتناول الكثير من الوجبات السريعة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "audio/I eat a lot of junk food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": "images/junk_food.webp"
+    },
+    {
+      "speaker": "",
+      "keyWord": "bake cookies",
+      "definition": "",
+      "english": "I also like to bake cookies.",
+      "arabic": "أنا أيضاً يعجبني أن أخبز البسكويت.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "audio/I also like to bake cookies.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": "images/bake_cookies.webp"
+    }
+  ]
+}
